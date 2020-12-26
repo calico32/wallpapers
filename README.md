@@ -20,4 +20,4 @@ Nice lookin' wallpapers
 
 `dribbble_AAAAAA-*`: <https://dribbble.com/shots/AAAAAA>
 
-- _e.g. `dribble_12078823-valley.png` is <https://dribbble.com/shots/12078823>_
+- _e.g. `dribbble_12078823-valley.png` is <https://dribbble.com/shots/12078823>_
