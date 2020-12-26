@@ -1,5 +1,7 @@
 # wallpapers
 
+![GitHub repo size](https://img.shields.io/github/repo-size/wiisportsresort/wallpapers)
+
 Nice lookin' wallpapers
 
 ## sources
