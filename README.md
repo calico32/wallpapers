@@ -21,3 +21,7 @@ Nice lookin' wallpapers
 `dribbble_AAAAAA-*`: <https://dribbble.com/shots/AAAAAA>
 
 - _e.g. `dribbble_12078823-valley.png` is <https://dribbble.com/shots/12078823>_
+
+`wallpaperhub_AAAA-*`: <https://wallpaperhub.app/wallpapers/AAAA>
+
+- _e.g. `wallpaperhub_8969-penguins.png` is <https://wallpaperhub.app/wallpapers/8969>_
